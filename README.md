@@ -43,6 +43,11 @@ A versão publicada está disponível via GitHub Pages:
 [**Clique aqui para acessar o projeto**](https://vicentematheus15.github.io/Projeto_Kanban/)
 
 ---
+## 📸 Prévia
+
+![Prévia do Projeto](https://raw.githubusercontent.com/vicentematheus15/Projeto_Kanban/main/preview.png)
+
+---
 
 ## 📌 Como usar localmente
 
