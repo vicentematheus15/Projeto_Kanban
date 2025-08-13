@@ -1,20 +1,4 @@
-let listaTarefas = [
-  { 
-    titulo: "Exemplo de título 1", 
-    descricao: "Exemplo de descrição 1", 
-    status: "Feito"
-  },
-  {
-    titulo: "Exemplo de título 2",
-    descricao: "Exemplo de descrição 2",
-    status: "Em andamento",
-  },
-  {
-    titulo: "Exemplo de título 3",
-    descricao: "Exemplo de descrição 3",
-    status: "Para fazer",
-  },
-];
+let listaTarefas = [];
 
 function alterarStatus(index, novoStatus){
     let tarefa = listaTarefas[index]
